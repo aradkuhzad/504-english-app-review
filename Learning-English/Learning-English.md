@@ -20,4 +20,11 @@ Learn the 504 essential English words efficiently with **Learning English**. Thi
 
 ## Watch the App in Action
 
+<<<<<<< HEAD
 [![Alternate Text](lv_0_20251120213853.mp4) "Link Title")
+=======
+<video width="320" height="240" autoplay loop muted>
+  <source src="lv_0_20251120213853.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+>>>>>>> cf639ee (Update)
