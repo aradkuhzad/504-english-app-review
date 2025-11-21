@@ -1,0 +1,28 @@
+# [Learning English](#)
+
+![App Icon](YOUR_ICON_LINK_HERE){width="100" height="100"}
+
+Learn the 504 essential English words efficiently with **Learning English**. This app includes **42 lessons**, each containing **12 words**.
+
+## Features
+
+| Feature | Available |
+|---------|-----------|
+| English pronunciation for every word | ✅ |
+| Meaning and definition for every word | ✅ |
+| Example sentences with pronunciation | ✅ |
+| Access to over 100 quizzes (subscription) | ✅ |
+| Images for 504 words (subscription) | ✅ |
+| Ads removed (subscription) | ✅ |
+| Ability to review words again (subscription) | ✅ |
+| Supports Persian and English | ✅ |
+| Weekly statistics tracking daily word learning | ✅ |
+
+## Demo Video
+
+<video width="320" height="240" autoplay loop muted>
+  <source src="YOUR_VIDEO_LINK_HERE" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+> Click on the app name above to see more detailed information in a separate Markdown page.
