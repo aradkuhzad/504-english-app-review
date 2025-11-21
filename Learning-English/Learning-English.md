@@ -24,5 +24,3 @@ Learn the 504 essential English words efficiently with **Learning English**. Thi
   <source src="YOUR_VIDEO_LINK_HERE" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-> Click on the app name above to see more detailed information in a separate Markdown page.
