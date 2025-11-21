@@ -18,7 +18,7 @@ Learn the 504 essential English words efficiently with **Learning English**. Thi
 | Supports Persian and English | ✅ |
 | Weekly statistics tracking daily word learning | ✅ |
 
-## Demo Video
+## Watch the App in Action
 
 <video width="320" height="240" autoplay loop muted>
   <source src="YOUR_VIDEO_LINK_HERE" type="video/mp4">
