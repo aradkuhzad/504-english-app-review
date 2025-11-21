@@ -1,6 +1,6 @@
 # [Learning English](#)
 
-![App Icon](YOUR_ICON_LINK_HERE){width="100" height="100"}
+![App Icon](unnamed.png){width="100" height="100"}
 
 Learn the 504 essential English words efficiently with **Learning English**. This app includes **42 lessons**, each containing **12 words**.
 
