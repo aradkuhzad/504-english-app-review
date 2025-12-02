@@ -18,4 +18,4 @@ Learn the 504 essential English words efficiently with **Learning English**. Thi
 | Supports Persian and English | ✅ |
 | Weekly statistics tracking daily word learning | ✅ |
 
-<img src="video/output.gif" width="200" height="250" alt="animated gif">
+<img src="video/output.gif" width="250" height="400" object-fit="cover" alt="animated gif">
