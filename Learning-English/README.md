@@ -19,6 +19,5 @@ Learn the 504 essential English words efficiently with **Learning English**. Thi
 | Weekly statistics tracking daily word learning | ✅ |
 
 <video width="400" controls autoplay loop muted>
-  <source src="./video/lv_0_20251120213853.mp4" type="video/mp4">
-  dfxvsfvsdffvsgfdsdfv
+  <source src="video/videoappleaeningeg.mp4" type="video/mp4">
 </video>
