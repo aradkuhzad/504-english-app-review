@@ -8,15 +8,12 @@ Learn the 504 essential English words efficiently with **Learning English**. Thi
 
 | Feature | Available |
 |---------|-----------|
-| English pronunciation for every word | ✅ |
-| Meaning and definition for every word | ✅ |
-| Example sentences with pronunciation | ✅ |
-| Access to over 100 quizzes (subscription) | ✅ |
-| Images for 504 words (subscription) | ✅ |
-| Ads removed (subscription) | ✅ |
-| Ability to review words again (subscription) | ✅ |
-| Supports Persian and English | ✅ |
-| Weekly statistics tracking daily word learning | ✅ |
+| Pronunciation & meaning | ✅ |
+| Example sentences | ✅ |
+| 100+ quizzes | ✅ |
+| Images, review & ad-free (premium) | ✅ |
+| Supports Persian & English | ✅ |
+| Weekly learning stats | ✅ |
 
 <img src="output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
 

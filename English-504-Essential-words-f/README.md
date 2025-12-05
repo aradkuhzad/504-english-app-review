@@ -1,21 +1,19 @@
-# [Learning English](#)
+# [504 Essential words](#)
 
-<img src="504-essential-words.png" alt="App Icon" width="100" height="100">
+<img src="unnamed.webp" alt="App Icon" width="100" height="100">
 
-Learn the 504 essential English words efficiently with **Learning English**. This app includes **42 lessons**, each containing **12 words**.
+This app covers all **504 English words** in **42** chapters, each containing **12 words**. It provides correct pronunciation, example **sentences**, and a built-in **dictionary**. The app includes stories using 504 words and offers quizzes for each chapter to reinforce learning.
 
 ## Features
 
 | Feature | Available |
 |---------|-----------|
-| English pronunciation for every word | ✅ |
-| Meaning and definition for every word | ✅ |
-| Example sentences with pronunciation | ✅ |
-| Access to over 100 quizzes (subscription) | ✅ |
-| Images for 504 words (subscription) | ✅ |
-| Ads removed (subscription) | ✅ |
-| Ability to review words again (subscription) | ✅ |
-| Supports Persian and English | ✅ |
-| Weekly statistics tracking daily word learning | ✅ |
+| 42 Chapters with 12 words each | ✅ |
+| Example sentences for each word | ✅ |
+| Correct pronunciation | ✅ |
+| Correct pronunciation | ✅ |
+| Stories using 504 words | ✅ |
+| Quizzes for each chapter | ✅ |
+| Built-in dictionary | ✅ |
 
 <img src="output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
