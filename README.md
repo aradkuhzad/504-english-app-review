@@ -37,4 +37,4 @@ This app covers all **504 English words** in **42** chapters, each containing **
 | Quizzes for each chapter | ✅ |
 | Built-in dictionary | ✅ |
 
-<img src="English-504-Essential-words-f/lv_0_20251120213136.mp4" width="250" height="400" style="object-fit: cover;" alt="animated gif">
+<img src="English-504-Essential-words-f/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
