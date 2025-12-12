@@ -90,5 +90,8 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
 | **Meaning (definitions)** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
 | **Example sentences** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
 | **Quizzes / Tests** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
+| **Images for vocabulary** | ❌ No | ❌ No | ✓ Yes | ❌ No |
+| **Built-in dictionary** | ❌ No | ✓ Yes | ✓ Yes | ❌ No |
+| **Stories with 504 words** | ❌ No | ✓ Yes | ❌ No | ❌ No |
 
 
