@@ -86,5 +86,9 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
 
 | **Feature / App** | **Learning English** | **504 Essential Words** | **504** | **504 Essential Words: English** |
 |-------------------|------------------------------------------|-----------------------------------------|-----------------------------------------------|---------------------------------------------------------|
+| **Word pronunciation** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
+| **Meaning (definitions)** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
+| **Example sentences** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
+| **Quizzes / Tests** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
 
 
