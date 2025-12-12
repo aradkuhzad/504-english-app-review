@@ -81,3 +81,8 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
 <img src="504-Essential-words-English/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
 
 ##
+
+# **Comparison table**
+
+
+
