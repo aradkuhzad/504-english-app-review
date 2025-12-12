@@ -93,5 +93,9 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
 | **Images for vocabulary** | ❌ No | ❌ No | ✓ Yes | ❌ No |
 | **Built-in dictionary** | ❌ No | ✓ Yes | ✓ Yes | ❌ No |
 | **Stories with 504 words** | ❌ No | ✓ Yes | ❌ No | ❌ No |
+| **Multiple meanings** | ❌ No | ❌ No | ✓ Yes | ❌ No |
+| **Record pronunciation** | ❌ No | ❌ No | ✓ Yes | ❌ No |
+| **Supports multiple languages (UI / translations)** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
+| **Video showing pronunciation / usage** | ❌ No | ❌ No | ❌ No | ✓ Yes |
 
 
