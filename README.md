@@ -84,5 +84,7 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
 
 # **Comparison table**
 
+| **Feature / App** | **Learning English** | **504 Essential Words** | **504** | **504 Essential Words: English** |
+|-------------------|------------------------------------------|-----------------------------------------|-----------------------------------------------|---------------------------------------------------------|
 
 
