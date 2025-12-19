@@ -14,3 +14,12 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
 | Quizzes for each chapter | ✅ |
 
 <img src="output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
+
+##
+
+<p align="center">
+  <img src="unnamed.webp" width="18%" />
+  <img src="unnamed (1).webp" width="18%" />
+  <img src="unnamed (2).webp" width="18%" />
+  <img src="unnamed (3).webp" width="18%" />
+</p>

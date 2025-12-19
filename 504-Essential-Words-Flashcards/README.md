@@ -17,3 +17,11 @@ This app provides pronunciation, example **sentences**, and multiple meanings fo
 | Built-in dictionary | ✅ |
 
 <img src="output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
+
+##
+
+<p align="center">
+  <img src="unnamed.webp" width="22%" />
+  <img src="unnamed (1).webp" width="22%" />
+  <img src="unnamed (6).webp" width="22%" />
+</p>

@@ -18,3 +18,14 @@ This app covers all **504 English words** in **42** chapters, each containing **
 
 <img src="output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
 
+##
+
+<p align="center">
+  <img src="unnamed (1).webp" width="18%" />
+  <img src="unnamed (2).webp" width="18%" />
+  <img src="unnamed (3).webp" width="18%" />
+  <img src="unnamed (4).webp" width="18%" />
+  <img src="unnamed (5).webp" width="18%" />
+</p>
+
+
