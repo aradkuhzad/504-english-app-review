@@ -23,3 +23,8 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
   <img src="unnamed (2).webp" width="18%" />
   <img src="unnamed (3).webp" width="18%" />
 </p>
+
+ffmpeg -i "/home/arad/Documents/src/504-English-github/504-english-app-review/Pocketly /video_2025-12-19_10-43-41.mp4" -vf "fps=20,scale=400:-1:flags=lanczos,palettegen" -frames:v 1 palette.png
+
+
+ffmpeg -i "/home/arad/Documents/src/504-English-github/504-english-app-review/Pocketly /video_2025-12-19_10-43-41.mp4" -i palette.png -lavfi "fps=20,scale=400:-1:flags=lanczos,paletteuse" output.gif
