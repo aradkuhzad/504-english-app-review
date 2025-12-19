@@ -1,8 +1,10 @@
-# [504 Essential Words: English](https://play.google.com/store/apps/details?id=com.narmgostaran.essential.words&pcampaignid=web_share)
+# [Application 504](https://cafebazaar.ir/app/sm.uok.application504)
 
-<img src="256x256bb.jpg" alt="App Icon" width="100" height="100">
+<img src="sm.uok.application504-f62b213d-93af-418e-9d05-c119c6005611_512x512.webp" alt="App Icon" width="100" height="100">
 
-This app supports four languages: **Turkish**, **Arabic**, **English**, and **Persian**. For each word, it provides a video demonstrating pronunciation, usage, and example sentences. Each chapter includes quizzes to test learning.
+This app includes a daily progress table that shows how many words you have learned so far.
+For each word, the app provides the meaning, correct pronunciation, and one example sentence.
+After studying the words, users must take a test, which is designed in three stages to better evaluate learning.
 
 ## Features
 
@@ -18,13 +20,7 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
 ##
 
 <p align="center">
-  <img src="unnamed.webp" width="18%" />
-  <img src="unnamed (1).webp" width="18%" />
-  <img src="unnamed (2).webp" width="18%" />
-  <img src="unnamed (3).webp" width="18%" />
+  <img src="sm.uok.application504-510614804658.webp" width="18%" />
+  <img src="sm.uok.application504-421898314064.webp" width="18%" />
+  <img src="sm.uok.application504-250027522264.webp" width="18%" />
 </p>
-
-ffmpeg -i "/home/arad/Documents/src/504-English-github/504-english-app-review/Pocketly /video_2025-12-19_10-43-41.mp4" -vf "fps=20,scale=400:-1:flags=lanczos,palettegen" -frames:v 1 palette.png
-
-
-ffmpeg -i "/home/arad/Documents/src/504-English-github/504-english-app-review/Pocketly /video_2025-12-19_10-43-41.mp4" -i palette.png -lavfi "fps=20,scale=400:-1:flags=lanczos,paletteuse" output.gif
