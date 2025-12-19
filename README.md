@@ -82,9 +82,9 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
 
 ##
 
-# [504 Essential Words + Videos](https://play.google.com/store/apps/details?id=com.versionsoft.essentialword&pcampaignid=web_share)
+# [504 Essential Words + Videos](504-Essential-words-green-logo/README.md)
 
-<img src="504-Essential-words-green-logo /unnamed.webp" alt="App Icon" width="100" height="100">
+<img src="504-Essential-words-green-logo/unnamed.webp" alt="App Icon" width="100" height="100">
 
 This app includes **42 lessons**, **with 12 words** in each lesson. After completing every lesson, users can take a quiz for that specific lesson to test their knowledge.
 The app also contains stories that use 504 words in context, helping learners understand their real usage.
@@ -102,23 +102,23 @@ The app does not include a **Leitner** (spaced repetition) system.
 | Meaning & explanation | ✅ |
 | Leitner system | ❌ |
 
-<img src="504-Essential-words-green-logo /output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
+<img src="504-Essential-words-green-logo/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
 
 ##
 
 <p align="center">
   <img src="" width="18%" />
-  <img src="504-Essential-words-green-logo /unnamed (1).webp" width="18%" />
-  <img src="504-Essential-words-green-logo /unnamed (2).webp" width="18%" />
-  <img src="504-Essential-words-green-logo /unnamed (3).webp" width="18%" />
+  <img src="504-Essential-words-green-logo/unnamed (1).webp" width="18%" />
+  <img src="504-Essential-words-green-logo/unnamed (2).webp" width="18%" />
+  <img src="504-Essential-words-green-logo/unnamed (3).webp" width="18%" />
 </p>
 
 ##
 
 
-# [Pocketly](https://myket.ir/app/ir.english_pocket.hvm.english_pocket)
+# [Pocketly](Pocketly/README.md)
 
-<img src="Pocketly /d51f213e-0d9d-4dc9-8f47-f771c8d0bb46.webp" alt="App Icon" width="100" height="100">
+<img src="Pocketly/d51f213e-0d9d-4dc9-8f47-f771c8d0bb46.webp" alt="App Icon" width="100" height="100">
 
 This app includes a *Leitner* (spaced repetition) system to help users memorize words effectively. It offers various word sets such as **504**, **4000**, **1100**, and more.
 The app is limited in the free version, and users need to purchase a subscription to unlock full access.
@@ -141,20 +141,20 @@ The app also includes audio pronunciation for words and supports more than **10 
 | Audio pronunciation | ✅ |
 | Supports 10+ languages | ✅ |
 
-<img src="Pocketly /output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
+<img src="Pocketly/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
 
 ##
 
 <p align="center">
-  <img src="Pocketly /0fb04c4d-54cc-4c82-9e09-650ff581a734.webp" width="18%" />
-  <img src="Pocketly /556d409b-ce2a-4443-a809-f76d2e47d9c1.webp" width="18%" />
-  <img src="Pocketly /0664c481-a9c5-4bdb-9ad0-be29e9462663.webp" width="18%" />
-  <img src="Pocketly /3655ebf3-ef38-4eff-ab96-c035ed2274f3.webp" width="30%" />
+  <img src="Pocketly/0fb04c4d-54cc-4c82-9e09-650ff581a734.webp" width="18%" />
+  <img src="Pocketly/556d409b-ce2a-4443-a809-f76d2e47d9c1.webp" width="18%" />
+  <img src="Pocketly/0664c481-a9c5-4bdb-9ad0-be29e9462663.webp" width="18%" />
+  <img src="Pocketly/3655ebf3-ef38-4eff-ab96-c035ed2274f3.webp" width="30%" />
 </p>
 
 ##
 
-# [Application 504](https://cafebazaar.ir/app/sm.uok.application504)
+# [Application 504](Application-504/README.md)
 
 <img src="Application-504/sm.uok.application504-f62b213d-93af-418e-9d05-c119c6005611_512x512.webp" alt="App Icon" width="100" height="100">
 
