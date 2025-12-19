@@ -10,10 +10,13 @@ After studying the words, users must take a test, which is designed in three sta
 
 | Feature | Available |
 |---------|-----------|
-| Supports Turkish, Arabic, English & Persian | ✅ |
-| Video showing word pronunciation & usage | ✅ |
-| Example sentences | ✅ |
-| Quizzes for each chapter | ✅ |
+| Daily progress table | ✅ |
+| Shows number of learned words | ✅ |
+| Word meaning | ✅ |
+| Correct pronunciation | ✅ |
+| Example sentence (1 per word) | ✅ |
+| Test after learning words | ✅ |
+| Three-stage test | ✅ |
 
 <img src="output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
 
