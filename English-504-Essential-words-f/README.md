@@ -17,3 +17,4 @@ This app covers all **504 English words** in **42** chapters, each containing **
 | Built-in dictionary | ✅ |
 
 <img src="output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
+
