@@ -86,16 +86,16 @@ This app supports four languages: **Turkish**, **Arabic**, **English**, and **Pe
 
 | **Feature / App** | **Learning English** | **504 Essential Words** | **504** | **504 Essential Words: English** |
 |-------------------|------------------------------------------|-----------------------------------------|-----------------------------------------------|---------------------------------------------------------|
-| **Word pronunciation** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
-| **Meaning (definitions)** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
-| **Example sentences** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
-| **Quizzes / Tests** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
-| **Images for vocabulary** | ❌ No | ❌ No | ✓ Yes | ❌ No |
-| **Built-in dictionary** | ❌ No | ✓ Yes | ✓ Yes | ❌ No |
-| **Stories with 504 words** | ❌ No | ✓ Yes | ❌ No | ❌ No |
-| **Multiple meanings** | ❌ No | ❌ No | ✓ Yes | ❌ No |
-| **Record pronunciation** | ❌ No | ❌ No | ✓ Yes | ❌ No |
-| **Supports multiple languages (UI / translations)** | ✓ Yes | ✓ Yes | ✓ Yes | ✓ Yes |
-| **Video showing pronunciation / usage** | ❌ No | ❌ No | ❌ No | ✓ Yes |
+| **Word pronunciation** | ✅ | ✅ | ✅ | ✅ |
+| **Meaning (definitions)** | ✅ | ✅ | ✅ | ✅ |
+| **Example sentences** | ✅ | ✅ | ✅ | ✅ |
+| **Quizzes / Tests** | ✅ | ✅ | ✅ | ✅ |
+| **Images for vocabulary** | ❌  | ❌  | ✅ | ❌  |
+| **Built-in dictionary** | ❌  | ✅ | ✅ | ❌  |
+| **Stories with 504 words** | ❌  | ✅ | ❌  | ❌  |
+| **Multiple meanings** | ❌  | ❌  | ✅ | ❌  |
+| **Record pronunciation** | ❌  | ❌  | ✅ | ❌  |
+| **Supports multiple languages (UI / translations)** | ✅ | ✅ | ✅ | ✅ |
+| **Video showing pronunciation / usage** | ❌  | ❌  | ❌  | ✅ |
 
 
