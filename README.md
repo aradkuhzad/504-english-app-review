@@ -1,10 +1,3 @@
-<img src="Application-504/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
-
-##
-
-<p align="center">
-  <img src="Application-504/sm.uok.application504-510614804658.webp" width="18%" />
-  <img src="Application-504/sm.uok.application504-421898314064.webp" width="18%" />
   <img src="Application-504/sm.uok.application504-250027522264.webp" width="18%" />
 </p>
 
