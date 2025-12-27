@@ -5,15 +5,6 @@
 
 This app covers all **504 English words** in **42** chapters, each containing **12 words**. It provides correct pronunciation, example **sentences**, and a built-in **dictionary**. The app includes stories using 504 words and offers quizzes for each chapter to reinforce learning.
 
-## Features
-
-| 42 Chapters with 12 words each | ✅ |
-| Example sentences for each word | ✅ |
-| Correct pronunciation | ✅ |
-| Correct pronunciation | ✅ |
-| Stories using 504 words | ✅ |
-| Quizzes for each chapter | ✅ |
-
 # [504](504-Essential-Words-Flashcards/README.md)
 
 <img src="504-Essential-Words-Flashcards/504-icon.webp" alt="App Icon" width="100" height="100">
