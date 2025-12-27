@@ -1,13 +1,3 @@
-# [Pocketly](Pocketly/README.md)
-
-<img src="Pocketly/d51f213e-0d9d-4dc9-8f47-f771c8d0bb46.webp" alt="App Icon" width="100" height="100">
-
-This app includes a *Leitner* (spaced repetition) system to help users memorize words effectively. It offers various word sets such as **504**, **4000**, **1100**, and more.
-The app is limited in the free version, and users need to purchase a subscription to unlock full access.
-For each word, the app provides the **meaning**, detailed **description**, concept explanation, synonyms, antonyms, proverbs, and additional related information.
-With the help of the **Leitner** system, users can review and learn words more efficiently.
-The app also includes audio pronunciation for words and supports more than **10 languages**.
-
 ## Features
 
 | Feature | Available |
