@@ -1,9 +1,3 @@
-  <img src="504-Essential-words-green-logo/unnamed (2).webp" width="18%" />
-</p>
-
-##
-
-
 # [Pocketly](Pocketly/README.md)
 
 <img src="Pocketly/d51f213e-0d9d-4dc9-8f47-f771c8d0bb46.webp" alt="App Icon" width="100" height="100">
