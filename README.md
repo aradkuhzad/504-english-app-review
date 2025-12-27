@@ -1,25 +1,11 @@
 
 
-<img src="504-Essential-words-green-logo/unnamed.webp" alt="App Icon" width="100" height="100">
-
 This app includes **42 lessons**, **with 12 words** in each lesson. After completing every lesson, users can take a quiz for that specific lesson to test their knowledge.
 The app also contains stories that use 504 words in context, helping learners understand their real usage.
 In addition, there is a **dictionary** section that provides the correct pronunciation, meaning, and explanation of each word. For every word, three example sentences are included.
 The app does not include a **Leitner** (spaced repetition) system.
 
-## Features
-
-| Feature | Available |
-|---------|-----------|
-| Quiz | ✅ |
-| Stories using 504 words | ✅ |
-| Dictionary section | ✅ |
-| Correct pronunciation | ✅ |
-| Meaning & explanation | ✅ |
-| Leitner system | ❌ |
-
 <img src="504-Essential-words-green-logo/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
-
 ##
 
 <p align="center">
