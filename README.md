@@ -1,7 +1,3 @@
-  <img src="Pocketly/3655ebf3-ef38-4eff-ab96-c035ed2274f3.webp" width="30%" />
-</p>
-
-##
 
 # [Application 504](Application-504/README.md)
 
