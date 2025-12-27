@@ -1,12 +1,4 @@
 
-# [504 Essential Words: English](504-Essential-words-English/README.md)
-
-<img src="504-Essential-words-English/256x256bb.jpg" alt="App Icon" width="100" height="100">
-
-This app supports four languages: **Turkish**, **Arabic**, **English**, and **Persian**. For each word, it provides a video demonstrating pronunciation, usage, and example sentences. Each chapter includes quizzes to test learning.
-
-## Features
-
 | Feature | Available |
 |---------|-----------|
 | Supports Turkish, Arabic, English & Persian | ✅ |
