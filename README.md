@@ -1,12 +1,3 @@
-|---------|-----------|
-| Daily progress table | ✅ |
-| Shows number of learned words | ✅ |
-| Word meaning | ✅ |
-| Correct pronunciation | ✅ |
-| Example sentence (1 per word) | ✅ |
-| Test after learning words | ✅ |
-| Three-stage test | ✅ |
-
 <img src="Application-504/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
 
 ##
