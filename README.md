@@ -1,18 +1,3 @@
-## Features
-
-| Feature | Available |
-|---------|-----------|
-| Leitner (spaced repetition) system | ✅ |
-| Multiple word lists (504, 4000, 1100, etc.) | ✅ |
-| Free version with limitations | ✅ |
-| Subscription required for full access | ✅ |
-| Word meaning & explanation | ✅ |
-| Concept & description | ✅ |
-| Synonyms & antonyms | ✅ |
-| Proverbs & related content | ✅ |
-| Audio pronunciation | ✅ |
-| Supports 10+ languages | ✅ |
-
 <img src="Pocketly/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
 
 ##
