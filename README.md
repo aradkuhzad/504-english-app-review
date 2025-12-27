@@ -1,8 +1,3 @@
-
-# [504 Essential words](English-504-Essential-words-f/README.md)
-
-<img src="English-504-Essential-words-f/unnamed.webp" alt="App Icon" width="100" height="100">
-
 This app covers all **504 English words** in **42** chapters, each containing **12 words**. It provides correct pronunciation, example **sentences**, and a built-in **dictionary**. The app includes stories using 504 words and offers quizzes for each chapter to reinforce learning.
 
 # [504](504-Essential-Words-Flashcards/README.md)
