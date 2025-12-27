@@ -34,7 +34,7 @@ After studying the words, users must take a test, which is designed in three sta
 
 # **Comparison table**
 
-| **Feature / App** | **[Learning English](Learning-English/README.md)** | **[504 Essential words](English-504-Essential-words-f/README.md)** | **[504](504-Essential-Words-Flashcards/README.md)** | **[504 Essential Words: English](504-Essential-words-English/README.md)** | **[504 Essential Words + Videos](504-Essential-words-green-logo/README.md)** | **[Pocketly](Pocketly/README.md)**| **Application 504** |
+| **Feature / App** | **[Learning English](Learning-English/README.md)** | **[504 Essential words](English-504-Essential-words-f/README.md)** | **[504](504-Essential-Words-Flashcards/README.md)** | **[504 Essential Words: English](504-Essential-words-English/README.md)** | **[504 Essential Words + Videos](504-Essential-words-green-logo/README.md)** | **[Pocketly](Pocketly/README.md)**| **[Application 504](Application-504/README.md)** |
 |-------------------|------------------------------------------|-----------------------------------------|----------------------------------|-------------|---------------------|-----------------------------------------------|---------------------------------------------------------|
 | **Word pronunciation** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Meaning (definitions)** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
