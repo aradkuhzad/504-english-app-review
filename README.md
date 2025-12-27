@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img src="" width="18%" />
-  <img src="504-Essential-words-green-logo/unnamed (1).webp" width="18%" />
   <img src="504-Essential-words-green-logo/unnamed (2).webp" width="18%" />
-  <img src="504-Essential-words-green-logo/unnamed (3).webp" width="18%" />
 </p>
 
 ##
