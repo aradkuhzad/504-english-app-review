@@ -1,7 +1,3 @@
-
-# [Application 504](Application-504/README.md)
-
-| Feature | Available |
 |---------|-----------|
 | Daily progress table | ✅ |
 | Shows number of learned words | ✅ |
