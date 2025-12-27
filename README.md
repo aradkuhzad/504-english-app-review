@@ -1,11 +1,3 @@
-<img src="Pocketly/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
-
-##
-
-<p align="center">
-  <img src="Pocketly/0fb04c4d-54cc-4c82-9e09-650ff581a734.webp" width="18%" />
-  <img src="Pocketly/556d409b-ce2a-4443-a809-f76d2e47d9c1.webp" width="18%" />
-  <img src="Pocketly/0664c481-a9c5-4bdb-9ad0-be29e9462663.webp" width="18%" />
   <img src="Pocketly/3655ebf3-ef38-4eff-ab96-c035ed2274f3.webp" width="30%" />
 </p>
 
