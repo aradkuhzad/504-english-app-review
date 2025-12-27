@@ -1,16 +1,4 @@
 
-| Feature | Available |
-|---------|-----------|
-| Supports Turkish, Arabic, English & Persian | ✅ |
-| Video showing word pronunciation & usage | ✅ |
-| Example sentences | ✅ |
-| Quizzes for each chapter | ✅ |
-
-<img src="504-Essential-words-English/output.gif" width="250" height="400" style="object-fit: cover;" alt="animated gif">
-
-##
-
-# [504 Essential Words + Videos](504-Essential-words-green-logo/README.md)
 
 <img src="504-Essential-words-green-logo/unnamed.webp" alt="App Icon" width="100" height="100">
 
