@@ -1,11 +1,4 @@
 
-# [504](504-Essential-Words-Flashcards/README.md)
-
-<img src="504-Essential-Words-Flashcards/504-icon.webp" alt="App Icon" width="100" height="100">
-
-This app provides pronunciation, example **sentences**, and multiple meanings for each word. It includes **images**, a built-in dictionary, and interactive exercises where after studying a word, users listen to its audio, spell it correctly, and record themselves to practice pronunciation.
-
-
 # [504 Essential Words: English](504-Essential-words-English/README.md)
 
 <img src="504-Essential-words-English/256x256bb.jpg" alt="App Icon" width="100" height="100">
